@@ -35,6 +35,11 @@ If something exists here, it exists to sharpen judgment, not to impress.
 
 ---
 
+## Product-Agnostic Default
+All guidance in this repository is intentionally product-agnostic. Principles, policies, and examples are framed to reflect general best practices that hold across domains, organizations, and technology stacks. No document here should be interpreted as prescribing a specific product, internal system, or proprietary architecture. When examples are used, they are illustrative only and must not be treated as normative implementations. The default assumption is that these practices should be defensible in any senior-level design review, independent of the particular product or codebase in which they are applied.
+
+---
+
 ## Operating Principles
 
 * **Correctness > cleverness**

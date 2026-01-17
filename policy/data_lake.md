@@ -189,7 +189,7 @@ To prevent authority creep:
 * Avoid names implying correctness or finality
 
   * ❌ `transactions_raw`
-  * ✅ `plaid_transaction_payloads`
+  * ✅ `<source>_transaction_payloads`
 
 Schema documentation must clearly state:
 
